@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Daniel Mantilla"]
   spec.email         = ["dan@appcabinet.com"]
   spec.summary       = %q{Middleware to extract the API version from request headers}
-  spec.description   = %q{The API version should reside on the Accept headers. Check documentation for deatils}
+  spec.description   = %q{Middleware to extract the API version from request headers. Check documentation for details}
   spec.homepage      = "http://github.com/dmantilla/rack-json-api-version"
   spec.license       = "MIT"
 

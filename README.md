@@ -1,7 +1,7 @@
 # Rack::Json::Api::Version
 
 Extract JSON API version number from request headers.
- 
+
 ## Installation
 
 Add this line to your application's Gemfile:
