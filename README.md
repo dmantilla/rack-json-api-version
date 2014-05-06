@@ -2,6 +2,8 @@
 
 Extract JSON API version number from request headers.
 
+[![Build Status](https://travis-ci.org/dmantilla/rack-json-api-version.svg?branch=master)](https://travis-ci.org/dmantilla/rack-json-api-version)
+
 ## Installation
 
 Add this line to your application's Gemfile:
